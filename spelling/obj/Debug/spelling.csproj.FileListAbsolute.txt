@@ -1,0 +1,10 @@
+C:\Users\Diana\source\repos\spelling\spelling\bin\Debug\spelling.exe.config
+C:\Users\Diana\source\repos\spelling\spelling\bin\Debug\spelling.exe
+C:\Users\Diana\source\repos\spelling\spelling\bin\Debug\spelling.pdb
+C:\Users\Diana\source\repos\spelling\spelling\obj\Debug\spelling.csprojResolveAssemblyReference.cache
+C:\Users\Diana\source\repos\spelling\spelling\obj\Debug\spelling.Form1.resources
+C:\Users\Diana\source\repos\spelling\spelling\obj\Debug\spelling.Properties.Resources.resources
+C:\Users\Diana\source\repos\spelling\spelling\obj\Debug\spelling.csproj.GenerateResource.Cache
+C:\Users\Diana\source\repos\spelling\spelling\obj\Debug\spelling.csproj.CoreCompileInputs.cache
+C:\Users\Diana\source\repos\spelling\spelling\obj\Debug\spelling.exe
+C:\Users\Diana\source\repos\spelling\spelling\obj\Debug\spelling.pdb
